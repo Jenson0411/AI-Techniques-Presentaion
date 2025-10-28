@@ -1,4 +1,4 @@
-age,workclass,education,marital.status,occupation,relationship,race,sex,hours.per.week,native.country,income
+age,workclass,education,marital_status,occupation,relationship,race,sex,hours_per_week,native_country,income
 90,?,HS-grad,Widowed,?,Not-in-family,White,Female,40,United-States,<=50K
 82,Private,HS-grad,Widowed,Exec-managerial,Not-in-family,White,Female,18,United-States,<=50K
 66,?,Some-college,Widowed,?,Unmarried,Black,Female,40,United-States,<=50K
